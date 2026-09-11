@@ -1,11 +1,12 @@
 # Magic Actions for YouTube™ (Official Build v7.9.5.6)
 
+🌐 **Official Website:** [chromeactions.com](https://www.chromeactions.com)
+
 This repository hosts the official release package for **Magic Actions for YouTube**.
 
 ## 🛡️ Security & Verification
 * **VirusTotal Scan:** [0/70 Clean Scan Report](https://www.virustotal.com/gui/file/4d30e932d0a8a2f5695d3587fd0e08964e009d0934c46fba9b84feeb2c253587/details)
 * **SHA-256 Hash:** `4d30e932d0a8a2f5695d3587fd0e08964e009d0934c46fba9b84feeb2c253587`
-
 ---
 
 ## 🛠️ How to Install in Google Chrome (Developer Mode)
